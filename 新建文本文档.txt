@@ -1,0 +1,6 @@
+dev - A
+现在，你已经决定要解决你的公司使用的问题追踪系统中的 #53 问题。 想要新建一个分支并同时切换到那个分支上，你可以运行一个带有 -b 参数的 git checkout 命令：
+
+$ git checkout -b iss53
+Switched to a new branch "iss53"
+dev - A
